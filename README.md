@@ -21,11 +21,6 @@
 
 > Open to **internships**, **research collaborations**, and **hackathons**. Reach out!
 
-### What I'm working on
-- LLM‑powered **chatbots/summarizers** (LangChain + vector DBs)
-- **GNNs** for particle classification and trajectory reconstruction
-- **Cloud MLOps** on Azure / GCP; FastAPI/Flask backends; React/Vue frontends
-
 ### Tech Stack
 `Python` `C/C++` `Java` `JavaScript/TypeScript` `R` `React` `Next.js` `Vue.js` `Node.js` `Express`
 `PyTorch` `TensorFlow` `scikit‑learn` `LangChain` `LLMs`
@@ -33,10 +28,6 @@
 `Azure` `GCP` `Vercel` `Git/GitHub` `Postman` `VS Code`
 
 ---
-
-### Featured Projects
-- 🔭 **[Particle Classification & Trajectory Reconstruction (GNN)](https://github.com/PrashantiSharma/Particle-ClassificationAndTrajectoryReconstruction-usingGNN)** — Flask app for real‑time visualization + two PyTorch Geometric models (classification & trajectory reconstruction).
-- 🛰️ **[PlanetAI (LLM Chatbot & Summarizer)](https://github.com/PrashantiSharma/PlanetAI)** — Document Q&A + summarizer using LangChain + GPT with chunking and prompt chaining.
 
 ### Publications & Research
 - **Blood Cancer Identification (CNNs + ViT)** — accepted at **IEEE IC‑EETA 2025**.
