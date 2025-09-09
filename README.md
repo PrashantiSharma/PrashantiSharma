@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Prashanti Sharma 👋</h1>
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Automation+%7C+Full-Stack+Developer+%7C+Researcher;CSE+Undergrad+%40+ITM+SLS+Baroda+University;Passionate+about+LLMs%2C+GNNs%2C+and+Edge+AI&t=20250909)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile!" alt="Typing SVG" /></a>
 
 </p>
 
