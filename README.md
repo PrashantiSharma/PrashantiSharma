@@ -13,7 +13,7 @@
 ---
 
 ### About me
-- 🎓 **CSE Undergraduate** at ITM SLS Baroda University (SGPA: 9.2/10).
+- 🎓 **CSE Undergraduate** at ITM SLS Baroda University.
 - 🤖 **AI Automation Intern @ Inbotiq** — building end‑to‑end workflows, vector search, and Azure deployments.
 - 🧩 **Prev. Full‑Stack Intern @ Zero65** — Node.js APIs, Vue.js UIs, and market data integrations.
 - 🧪 **Research:** cancer imaging (CNNs + ViT) and **Mars entry trajectory optimization** (GA/PSO/PINNs).
