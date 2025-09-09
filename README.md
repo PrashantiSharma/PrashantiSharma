@@ -47,11 +47,6 @@
   <img src="https://streak-stats.demolab.com?user=PrashantiSharma&theme=dark&hide_border=true" alt="PrashantiSharma's GitHub Stats" />
 </p>
 
-### Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
 ---
 
 ### Connect
