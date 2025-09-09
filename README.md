@@ -17,7 +17,6 @@
 - 🤖 **AI Automation Intern @ Inbotiq** — building end‑to‑end workflows, vector search, and Azure deployments.
 - 🧩 **Prev. Full‑Stack Intern @ Zero65** — Node.js APIs, Vue.js UIs, and market data integrations.
 - 🧪 **Research:** cancer imaging (CNNs + ViT) and **Mars entry trajectory optimization** (GA/PSO/PINNs).
-- 🗣️ **Community:** GDG on Campus AI Coordinator; organized hands‑on AI/ML workshops.
 - ♟️ **Fun:** Chess & debate wins; love shipping clean, useful tools.
 
 > Open to **internships**, **research collaborations**, and **hackathons**. Reach out!
