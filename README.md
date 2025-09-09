@@ -1,7 +1,8 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Prashanti Sharma 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Automation+%7C+Full‑Stack+Developer+%7C+Researcher;CSE+Undergrad+%40+ITM+SLS+Baroda+University;Passionate+about+LLMs%2C+GNNs%2C+and+Edge+AI" alt="Typing SVG" />
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Automation+%7C+Full-Stack+Developer+%7C+Researcher;CSE+Undergrad+%40+ITM+SLS+Baroda+University;Passionate+about+LLMs%2C+GNNs%2C+and+Edge+AI&t=20250909)
+
 </p>
 
 <p align="center">
@@ -48,7 +49,7 @@
 
 ### Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrashantiSharma/PrashantiSharma/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 ---
