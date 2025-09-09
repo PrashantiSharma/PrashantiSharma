@@ -42,9 +42,9 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrashantiSharma&show_icons=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantiSharma" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantiSharma&layout=compact" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrashantiSharma&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="PrashantiSharma's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantiSharma&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="PrashantiSharma's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=PrashantiSharma&theme=dark&hide_border=true" alt="PrashantiSharma's GitHub Stats" />
 </p>
 
 ### Contribution Snake
