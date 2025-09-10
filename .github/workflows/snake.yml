@@ -15,7 +15,7 @@ jobs:
       - name: Generate the snake files in ./dist
         uses: Platane/snk@v3
         with:
-          github_user_name: <YOUR_USERNAME>
+          github_user_name: PrashantiSharma
           outputs: |
             dist/github-contribution-grid-snake.svg
 
